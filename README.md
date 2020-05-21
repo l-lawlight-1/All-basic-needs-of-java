@@ -1,2 +1,2 @@
-# All-basic-needs-of-java
-These are all basic need for one to make a java game
+# p5.play-boilerplate
+Boiler plate for p5.play
